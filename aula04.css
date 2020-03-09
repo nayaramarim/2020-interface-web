@@ -1,0 +1,26 @@
+* {
+  margin:0px;
+  padding:0px;
+  font-family: Verdana ;
+
+}
+.site{
+  background-color: $DADADA;
+  width: :800px;
+
+  margin: 0px auto;
+  padding: 50px;
+}
+.site .conteudo {
+  min-height:300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  border:5px #ADADAD solid ;
+}
+.site .topo, .rodape  {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+.site .topo h2 {
+  
+}
