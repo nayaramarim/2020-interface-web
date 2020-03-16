@@ -1,0 +1,76 @@
+* {
+  margin:0px;
+  padding:0px;
+  font-family: Verdana ;
+
+
+}
+.site{
+
+  width: :800px;
+  background-color: #DADADA;
+  margin: 0px auto;
+  padding: 200px;
+}
+.site .conteudo {
+  min-height:600px;
+  margin: 50px 0px;
+  padding: 50px 0px;
+  border:5px #ADADAD solid ;
+}
+.site .topo, .rodape  {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+
+.site .topo h2 {
+
+}
+
+.botao{
+  font-size: 18px;
+  text-decoration: none;
+  padding: 10px 20px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.botao-azul{
+ background-color: #66b3ff;
+ border: solid 1px #0059b3;
+}
+
+.botao-vermelho{
+  background-color: red;
+  border: solid 1px #0059b3;
+}
+
+.botao-verde{
+  background-color: green;
+  border: solid 1px #0059b3;
+}
+.menu{
+  background-color: #DADADA;
+}
+.menu ul li{
+  display: inline-block;
+}
+.menu a{
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 15px;
+}
+.menu:hover{
+  background-color: #BABABA;
+}
+.noticias h2{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSABlU2T_6bRXmTZ71WSVOSyIt16qvE7ZCqkHHQi5G7-S9CJnW8');
+  font-size: 30px;
+}
+.noticias h3 {
+  color : #AAAAAA;
+  font-size: 20px;
+}
+body{
+  text-align: center;
+}
